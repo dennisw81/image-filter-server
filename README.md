@@ -4,7 +4,7 @@
 - http://image-filter-server-dev-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://tractive.com/blog/wp-content/uploads/2016/04/puppy-care-guide-for-new-parents-768x576.jpg
   ...this is the endpoint where you will see the filtered image
 - I also added an unprotected endpoint to the RestAPI project that will call this endpoint internally with a static url just for demo purpose. Here is the link: http://udagram-wittke-dev-dev.us-east-1.elasticbeanstalk.com/api/v0/processed_image
-  I added two screenshots to show how I set this up ().
+  You can find a screenshot that shows how I set this up here: deployment_screenshots/static_processed_image-endpoint.png
 
 # Udagram Image Filtering Microservice
 
